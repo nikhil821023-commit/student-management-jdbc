@@ -15,3 +15,5 @@
 1. Setup PostgreSQL database
 2. Update DB credentials in DBConnection.java
 3. Run Main.java
+
+![Output]("C:\Users\sudha\Pictures\Screenshots\Screenshot 2026-03-26 002846.png")
